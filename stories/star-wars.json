@@ -1,10 +1,32 @@
 {
+    "imageUrl": "https://geostorypictures.blob.core.windows.net/pics/617bcaf0-2913-4d28-a36c-d46b8935324a.jpg",
     "characters": [
         {
-            "name": "Luke Skywalker"
-        },
-        {
-            "name": "Obi-Wan Kenobi"
+            "name": "Anakin",
+            "imageUrl": "https://geostorypictures.blob.core.windows.net/pics/27f5eda6-418d-4e9f-a55d-9799d5a9f19c.jpg",
+            "keyframes": [
+                {
+                    "position": {
+                        "x": 505.7079339826754,
+                        "y": 429.72796449060604
+                    },
+                    "time": 0
+                },
+                {
+                    "position": {
+                        "x": 375.08534542638824,
+                        "y": -131.54810931047135
+                    },
+                    "time": 85300781.25
+                },
+                {
+                    "position": {
+                        "x": -36.53300690425042,
+                        "y": -132.74120598389348
+                    },
+                    "time": 173300781.25
+                }
+            ]
         }
     ]
 }
